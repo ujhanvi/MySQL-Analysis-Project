@@ -1,4 +1,4 @@
-#MySQL Analysis Project
+# MySQL Analysis Project
 
 ## 📌 Project Overview
 This project is a complete MySQL case study built on a Zepto-style grocery dataset.  
@@ -57,7 +57,7 @@ The project progresses from basic SQL operations to advanced analytical queries,
 ---
 
 ## 📁 Project Structure
-  │
+  ```│
 ├── dataset/
 │ └── zepto.csv
 │
@@ -65,7 +65,7 @@ The project progresses from basic SQL operations to advanced analytical queries,
 │ └── my_sql.sql
 │
 └── README.md
-
+```
 
 ---
 
